@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\spoorthi\Documents\BlueJ\Eclipse\New folder\Developer\bin\.metadata\.plugins\org.eclipse.jdt.core
+4187233750.index
+2128316705.index
+967719751.index
